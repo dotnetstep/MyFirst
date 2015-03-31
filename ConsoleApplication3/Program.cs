@@ -10,7 +10,7 @@ namespace ConsoleApplication3
     {
         static void Main(string[] args)
         {
-            Console.Writeline("Hello From Git hub");
+            Console.WriteLine("Hello From Git hub");
         }
     }
 }
